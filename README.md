@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a creative web developer who focuses on creating modern and interactive websites.
+# 👨‍💻 About Me:
+I am a creative web developer with a focus on designing modern and interactive websites.
 
 
 ## 🌐 Socials:
